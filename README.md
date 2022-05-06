@@ -1,7 +1,14 @@
+
+- 🔭 I am currently working as an intern at Hospital Metropolitno Dr.Celio de Castro 
+- 📱  I’m currently learning React-Native
+- ☠  studying computer science
+
+
+
 <div align="center">
   <a href="https://github.com/Mathias-I">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mathias-I&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathias-I&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathias-I&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
   
   
@@ -30,7 +37,3 @@
  
 </div>
 -->
-
-- 🔭 I am currently working as an intern at Hospital Metropolitno Dr.Celio de Castro 
-- 📱  I’m currently learning React-Native
-- ☠  studying computer science
