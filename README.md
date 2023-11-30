@@ -1,10 +1,4 @@
 
-- 🔭 I am currently working as an intern at Hospital Metropolitno Dr.Celio de Castro 
-- 📱  I’m currently learning React-Native
-- ☠  studying computer science
-
-
-
 <div align="center">
   <a href="https://github.com/Mathias-I">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mathias-I&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
@@ -21,9 +15,9 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
-</div>-->
+</div>
   
- <!--
+ 
  
 <div> 
 
@@ -36,4 +30,4 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
--->
+
